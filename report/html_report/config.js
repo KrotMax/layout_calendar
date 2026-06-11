@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_initial_state.png",
-        "test": "..\\bitmaps_test\\20260611-134137\\Calendar_initial_state.png",
+        "test": "..\\bitmaps_test\\20260611-142858\\Calendar_initial_state.png",
         "selector": "body",
         "fileName": "Calendar_initial_state.png",
         "label": "Calendar initial state",
@@ -28,7 +28,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_day_with_hover_effect.png",
-        "test": "..\\bitmaps_test\\20260611-134137\\Calendar_day_with_hover_effect.png",
+        "test": "..\\bitmaps_test\\20260611-142858\\Calendar_day_with_hover_effect.png",
         "selector": "body",
         "fileName": "Calendar_day_with_hover_effect.png",
         "label": "Calendar day with hover effect",
@@ -44,9 +44,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.37358601888020837,
-          "misMatchPercentage": "0.37",
-          "analysisTime": 25
+          "rawMisMatchPercentage": 0.21794637044270834,
+          "misMatchPercentage": "0.22",
+          "analysisTime": 36
         }
       },
       "status": "pass"
@@ -54,7 +54,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_starting_from_Wednesday.png",
-        "test": "..\\bitmaps_test\\20260611-134137\\Calendar_starting_from_Wednesday.png",
+        "test": "..\\bitmaps_test\\20260611-142858\\Calendar_starting_from_Wednesday.png",
         "selector": "body",
         "fileName": "Calendar_starting_from_Wednesday.png",
         "label": "Calendar starting from Wednesday",
@@ -78,7 +78,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_with_length_of_29_days.png",
-        "test": "..\\bitmaps_test\\20260611-134137\\Calendar_with_length_of_29_days.png",
+        "test": "..\\bitmaps_test\\20260611-142858\\Calendar_with_length_of_29_days.png",
         "selector": "body",
         "fileName": "Calendar_with_length_of_29_days.png",
         "label": "Calendar with length of 29 days",
